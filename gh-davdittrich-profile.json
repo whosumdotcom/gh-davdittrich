@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-07-01T22:01:28Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:davdittrich"
+    },
+    {
+      "Claim": "mdon:@davdittrich@fediscience.org"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "69325a9da0cb171131d62a87",
+    "Timestamp": "2023-07-01T22:06:11Z",
+    "Signature": "871916fc37e1181da654f30fef49841a9b06489c2f671b1ad33a88356d7a82273fa245eee10ab7edac078ef3e0750076ae2b1273aad99663b33da4eab92c1c8db3d982b840176280d0eb2e12ac5fe516662a83bd5176afa16be445525f851a4f07280cc519cf331fab07ad05f4a78e751b46af17654103e7ae71a7898561ece18bf8160a9aab1916552f4e8007eecf0b3c0e63e94bf63be62452947dd281588ec049430dcd807a06b806e4f12fa03aa455130e3ad62eff599bf8e38cdf5192370fd76e7081f95efd0997429b2b313703bb9157e0b624c6e14e42b65a4a51c18f00bee4f5e4a0c54938b4730f4a84df5a627c0bc34c4d667d9ba6d9c07e7614ae"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "0a076929c4761d4b33566dc7839e9e0ded48bff6dc2b4cb1ff84be0f66a9356e",
+  "ContentToHash": "v1|gh:davdittrich,mdon:@davdittrich@fediscience.org|2023-07-01T22:01:28Z"
+}
